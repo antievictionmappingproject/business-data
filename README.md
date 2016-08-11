@@ -10,4 +10,4 @@ To-Do:
 * Include important analytical information, such as location and business account number.
 
 How to run: 
-`python business-analyzer.py`
+`python permanent-closures.py`
